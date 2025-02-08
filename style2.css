@@ -1,0 +1,18 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    color: black;
+    border: 1.5px solid black;
+    text-align: center;
+    margin: 15px;
+}
+
+.dark{
+    background-color: white;
+}
+
+.light{
+    background-color: black;
+    color: white;
+}

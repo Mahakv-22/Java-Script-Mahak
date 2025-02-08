@@ -1,0 +1,37 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+}  */
+
+ /* #heading{
+    color: white;
+    background-color: palevioletred;
+}
+
+body{
+    background-color: burlywood;
+}
+
+button{
+    background-color: palevioletred;
+    color: white;
+} */
+
+#box {
+    height: 200px;
+    width: 200px;
+    border: 1.5px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: lightcoral;
+    color: white;
+    display: flex;
+}
+
+.content{
+    color: red;
+}
+
+.newClass{
+    background-color: green;
+}
